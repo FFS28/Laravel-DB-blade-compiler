@@ -1,4 +1,4 @@
-## DB Blade Compiler
+## Laravel DB Blade Compiler
 
 
 ### Render Blade templates from Eloquent Model Fields
